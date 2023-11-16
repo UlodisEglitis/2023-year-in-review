@@ -259,9 +259,6 @@ line-height: 220.271px; /* 108.571% */
 	padding: var(--page-padding);
 }
 
-.content:last-child {
-	padding-bottom: 40vh;
-}
 
 .intro__title,
 .content__title {
@@ -495,8 +492,6 @@ line-height: 220.271px; /* 108.571% */
 .review-footer-cta  p {
 	max-width: 812px;
 	color: #FFF;
-	leading-trim: both;
-	text-edge: cap;
 	font-family: Inter;
 	font-size: 45px;
 	font-style: normal;
