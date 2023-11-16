@@ -11,6 +11,11 @@
   font-size: 16px;
 }
 
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 body {
   color: var(--color-text);
   background-color: var(--color-bg);
@@ -416,6 +421,26 @@ main {
 .review-intro .sub-logo {
   gap: 14px;
   margin-top: -25px;
+}
+
+.review-intro .title-bar {
+  width: 100%;
+  margin-top: 25px;
+}
+
+.review-intro .title-bar svg {
+  float: left;
+}
+
+.review-intro .title-bar span {
+  float: right;
+  color: #fff;
+  letter-spacing: .444px;
+  font-family: SF Pro Display;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24.046px;
 }
 
 .stat-card {

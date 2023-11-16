@@ -13,6 +13,11 @@
 	--page-padding: 1.5rem 2rem;
 }
 
+main {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
 body {
 	margin: 0;
 	color: var(--color-text);
@@ -432,6 +437,26 @@ line-height: 220.271px; /* 108.571% */
 .review-intro .sub-logo {
 	margin-top: -25px;
 	gap: 14px;
+}
+
+.review-intro .title-bar {
+	margin-top: 25px;
+	width: 100%;
+}
+
+.review-intro .title-bar svg{
+	float: left;
+}
+
+.review-intro .title-bar span{
+	float: right;
+	color: #FFF;
+	font-family: SF Pro Display;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 24.046px;
+	letter-spacing: 0.444px;
 }
 
 .stat-card {
