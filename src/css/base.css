@@ -218,9 +218,11 @@ main {
 }
 
 .intro__title-pre {
-	font-weight: 800;
-	text-transform: uppercase;
-	font-size: clamp(2rem,10vw,9rem);
+	color: var(--White, #FFF);
+font-size: 202.881px;
+font-style: normal;
+font-weight: 400;
+line-height: 220.271px; /* 108.571% */
 }
 
 .intro__title-sub {
@@ -377,6 +379,12 @@ main {
 .pill--blue {
 	border-radius: 163.851px;
 	background: #3858E9;
+	display: flex;
+  align-content: center;
+  align-items: center;
+  padding-left: 27px;
+  padding-right: 27px;
+  padding-top: 11px;
 }
 .pill--blue .logo {
 	fill: #FFF;
@@ -384,7 +392,7 @@ main {
 .pill--blue .text {
 	color: #FFF;
 	text-align: center;
-	font-family: SF Pro Display;
+	font-family: Inter;
 	font-size: 89.373px;
 	font-style: normal;
 	font-weight: 500;
@@ -404,10 +412,19 @@ main {
 .pill--white .text {
 	color: #2544CF;
 	text-align: center;
-	font-family: SF Pro Display;
+	font-family: Inter;
 	font-size: 62.619px;
 	font-style: normal;
 	font-weight: 500;
 	line-height: 62.619px; /* 100% */
 	letter-spacing: 1.252px;
+}
+
+.review-intro {
+	color: var(--White, #FFF);
+font-family: Recoleta;
+font-size: 202.881px;
+font-style: normal;
+font-weight: 400;
+line-height: 220.271px; /* 108.571% */
 }
