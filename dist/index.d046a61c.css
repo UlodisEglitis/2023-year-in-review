@@ -204,7 +204,6 @@ main {
 
 .intro__title-pre {
   text-transform: uppercase;
-  font-family: sans-serif;
   font-size: clamp(2rem, 10vw, 9rem);
   font-weight: 800;
 }
@@ -244,6 +243,10 @@ main {
 
 .content:last-child {
   padding-bottom: 40vh;
+}
+
+.intro__title, .content__title {
+  font-family: Recoleta, Georgia, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 }
 
 .content--full {
@@ -289,134 +292,6 @@ main {
 
 .content__title--sides span:last-child {
   justify-self: end;
-}
-
-.font-1 {
-  font-family: wayfinder-cf, serif;
-  font-weight: 100;
-}
-
-.font-2 {
-  font-family: campaign-serif, sans-serif;
-  font-weight: 400;
-}
-
-.font-3 {
-  font-family: area-normal, sans-serif;
-  font-weight: 600;
-}
-
-.font-4 {
-  font-family: campaign-serif, sans-serif;
-  font-style: italic;
-  font-weight: 400;
-}
-
-.font-5 {
-  text-transform: uppercase;
-  font-family: zedou, sans-serif;
-  font-weight: 300;
-}
-
-.font-6 {
-  font-family: afronaut, sans-serif;
-  font-weight: 400;
-}
-
-.font-7 {
-  font-family: hoss-round-wide, sans-serif;
-  font-weight: 400;
-}
-
-.font-8 {
-  text-transform: lowercase;
-  font-family: monotalic, sans-serif;
-  font-weight: 400;
-}
-
-.font-9 {
-  font-family: aziga, sans-serif;
-  font-weight: 400;
-}
-
-.font-10 {
-  font-family: norman-stencil, sans-serif;
-  font-weight: 800;
-}
-
-.font-11 {
-  font-family: neighbor, sans-serif;
-  font-weight: 400;
-}
-
-.font-12 {
-  font-family: halogen, sans-serif;
-  font-weight: 700;
-}
-
-.font-13 {
-  font-weight: initial;
-  font-variation-settings: "wght" 400;
-  font-family: marlide-display-variable, sans-serif;
-}
-
-.font-14 {
-  font-weight: initial;
-  font-variation-settings: "STYL" 0;
-  font-family: june-expt-variable, sans-serif;
-}
-
-.font-15 {
-  font-weight: initial;
-  font-variation-settings: "STYL" 100;
-  font-family: june-expt-variable, sans-serif;
-}
-
-.font-16 {
-  font-weight: initial;
-  font-variation-settings: "slnt" 0;
-  font-family: inge-variable, sans-serif;
-}
-
-.font-17 {
-  font-weight: initial;
-  font-variation-settings: "wght" 450, "wdth" 80;
-  font-family: antipoda-variable, sans-serif;
-}
-
-.font-18 {
-  font-weight: initial;
-  font-variation-settings: "slnt" 0, "wght" 100, "wdth" 100;
-  font-family: vinila-variable, sans-serif;
-}
-
-.font-19 {
-  font-weight: initial;
-  font-variation-settings: "slnt" 0, "wght" 610;
-  font-family: nagel-variable, sans-serif;
-}
-
-.font-20 {
-  font-weight: initial;
-  font-variation-settings: "wght" 400;
-  font-family: borax-variable, sans-serif;
-}
-
-.font-21 {
-  font-family: gigantic, sans-serif;
-  font-style: normal;
-  font-weight: 900;
-}
-
-.font-22 {
-  font-family: capsule, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.font-23 {
-  font-variation-settings: "opsz" 1000, "wght" 300;
-  font-family: arsenica-variable, sans-serif;
 }
 
 .font-height {

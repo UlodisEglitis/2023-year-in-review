@@ -11,6 +11,13 @@
     <link rel="stylesheet" type="text/css" href="css/base.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
 	<!-- Should remove this dependency on CSS vars since it won't be a demo. -->
+	<style>
+		@font-face {
+			font-family: Recoleta;
+			font-display: swap;
+			src: url('https://s1.wp.com/i/fonts/recoleta/400.woff2')
+		}
+	</style>
 	<script>
     document.documentElement.className = "js";
     var supportsCssVars = function() { var e, t = document.createElement("style"); return t.innerHTML = "root: { --tmp-var: bold; }", document.head.appendChild(t), e = !!(window.CSS && window.CSS.supports && window.CSS.supports("font-weight", "var(--tmp-var)")), t.parentNode.removeChild(t), e };
