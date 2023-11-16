@@ -203,7 +203,7 @@ main {
 }
 
 .intro {
-	height: 100vh;
+	max-height: 100vh;
 	display: grid;
 	place-items: center;
 	text-align: center;
@@ -279,7 +279,6 @@ line-height: 220.271px; /* 108.571% */
 
 .content p {
 	max-width: 660px;
-	margin: 1.5rem auto;
 	font-size: 1.25rem;
 	line-height: 1.5;
 	font-weight: 600;
@@ -433,4 +432,36 @@ line-height: 220.271px; /* 108.571% */
 .review-intro .sub-logo {
 	margin-top: -25px;
 	gap: 14px;
+}
+
+.stat-card {
+	display: flex;
+}
+.stat-card * {
+	color: #FFF;
+	width: 80vw;
+	margin: auto 0;
+	justify-content: space-between;
+}
+.stat-card--key {
+font-family: SF Pro;
+font-size: 18px;
+font-style: normal;
+font-weight: 274;
+line-height: 110%; /* 19.8px */
+font-variant: all-small-caps;
+margin: 0;
+}
+
+.stat-card--content{
+	display: flex;
+	flex-direction: column;
+}
+
+.stat-card--value {
+	font-size: 150px;
+}
+
+.stat-card--description {
+margin: 0;
 }
