@@ -22,7 +22,7 @@ body {
 }
 
 .demo-1 {
-  background-image: linear-gradient(#000 4.78%, #3858e9 32.38%, #ae94fb 52.18%, #ff7247 75.61%, #ffb514 100%);
+  background: linear-gradient(#000 0%, #3858e9 33.42%, #815af6 66.24%, #010101 100%);
 }
 
 .demo-2 {
@@ -190,7 +190,7 @@ main {
 .intro {
   text-align: center;
   place-items: center;
-  height: 100vh;
+  max-height: 100vh;
   display: grid;
 }
 
@@ -263,7 +263,6 @@ main {
 
 .content p {
   max-width: 660px;
-  margin: 1.5rem auto;
   font-size: 1.25rem;
   font-weight: 600;
   line-height: 1.5;
@@ -406,6 +405,51 @@ main {
   font-style: normal;
   font-weight: 400;
   line-height: 160px;
+}
+
+.review-intro .logo {
+  align-items: center;
+  gap: 20px;
+  display: flex;
+}
+
+.review-intro .sub-logo {
+  gap: 14px;
+  margin-top: -25px;
+}
+
+.stat-card {
+  display: flex;
+}
+
+.stat-card * {
+  color: #fff;
+  justify-content: space-between;
+  width: 80vw;
+  margin: auto 0;
+}
+
+.stat-card--key {
+  font-variant: all-small-caps;
+  margin: 0;
+  font-family: SF Pro;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 274;
+  line-height: 110%;
+}
+
+.stat-card--content {
+  flex-direction: column;
+  display: flex;
+}
+
+.stat-card--value {
+  font-size: 150px;
+}
+
+.stat-card--description {
+  margin: 0;
 }
 
 .splitting .word, .splitting .char {
