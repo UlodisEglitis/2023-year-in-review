@@ -284,7 +284,7 @@ line-height: 220.271px; /* 108.571% */
 
 .content p {
 	max-width: 660px;
-	font-size: 1.25rem;
+	font-size: 1.6rem;
 	line-height: 1.5;
 	font-weight: 600;
 }
@@ -460,25 +460,35 @@ line-height: 220.271px; /* 108.571% */
 }
 
 .stat-card {
-	color: #FFF;
+
 	display: grid;
 	grid-template-columns: 200px, 1fr;
 	grid-template-rows: repeat(2, 1fr);
 	grid-column-gap: 0px;
 	grid-row-gap: 0px;
+	max-width: 1224px;
+	margin: auto 0;
+}
+
+.stat-card * {
+	color: #FFF;
+
+	font-style: normal;
 }
 .stat-card--key {
 	grid-area: 1 / 1 / 3 / 2;
-	font-family: Inter;
+
+  font-family: Inter;
 	font-size: 18px;
-	font-style: normal;
 	font-weight: 274;
+
 	line-height: 110%; /* 19.8px */
 	font-variant: all-small-caps;
 }
 .stat-card--value {
 	text-align: left;
 	font-size: 150px;
+	font-family: Recoleta, sans-serif;
 	margin-top:0;
 	grid-area: 1 / 2 / 2 / 3;
 		margin:0;
@@ -486,6 +496,8 @@ line-height: 220.271px; /* 108.571% */
 }
 
 .stat-card--description {
-	margin: 0;
+	margin: 22px 0 0;
+	width: 700px;
 	grid-area: 2 / 2 / 3 / 3;
+	font-size: 32px;
 }
