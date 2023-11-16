@@ -265,6 +265,16 @@ main {
 	font-family: Recoleta,Georgia,serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol
 }
 
+.intro__celebrate {
+	color: #FFF;
+	font-family: SF Pro;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 274;
+	line-height: 46px; /* 115% */
+	max-width: 80%;
+}
+
 .content--full {
 	padding: 0;
 }
