@@ -225,10 +225,6 @@ font-weight: 400;
 line-height: 220.271px; /* 108.571% */
 }
 
-.intro__title-sub {
-	font-size: clamp(1rem,6vw,2.75rem);
-}
-
 .intro__info {
 	position: relative;
 	max-width: 20ch;
@@ -379,9 +375,9 @@ line-height: 220.271px; /* 108.571% */
 .pill--blue {
 	border-radius: 163.851px;
 	background: #3858E9;
-	display: flex;
-  align-content: center;
-  align-items: center;
+	display: flex-inline;
+	align-content: center;
+	align-items: center;
   padding-left: 27px;
   padding-right: 27px;
   padding-top: 11px;
@@ -422,9 +418,9 @@ line-height: 220.271px; /* 108.571% */
 
 .review-intro {
 	color: var(--White, #FFF);
-font-family: Recoleta;
-font-size: 202.881px;
-font-style: normal;
-font-weight: 400;
-line-height: 220.271px; /* 108.571% */
+	font-family: Recoleta;
+	font-size: 60px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 160px;
 }

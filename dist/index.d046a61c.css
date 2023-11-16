@@ -203,13 +203,11 @@ main {
 }
 
 .intro__title-pre {
-  text-transform: uppercase;
-  font-size: clamp(2rem, 10vw, 9rem);
-  font-weight: 800;
-}
-
-.intro__title-sub {
-  font-size: clamp(1rem, 6vw, 2.75rem);
+  color: var(--White, #fff);
+  font-size: 202.881px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 220.271px;
 }
 
 .intro__info {
@@ -353,6 +351,61 @@ main {
   .frame__demos {
     justify-self: end;
   }
+}
+
+.pill--blue {
+  display: flex-inline;
+  background: #3858e9;
+  border-radius: 163.851px;
+  align-content: center;
+  align-items: center;
+  padding-top: 11px;
+  padding-left: 27px;
+  padding-right: 27px;
+}
+
+.pill--blue .logo {
+  fill: #fff;
+}
+
+.pill--blue .text {
+  color: #fff;
+  text-align: center;
+  letter-spacing: 1.787px;
+  font-family: Inter;
+  font-size: 89.373px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 89.373px;
+}
+
+.pill--white {
+  background: #fff;
+  border-radius: 163.851px;
+}
+
+.pill--white .logo {
+  fill: #2544cf;
+}
+
+.pill--white .text {
+  color: #2544cf;
+  text-align: center;
+  letter-spacing: 1.252px;
+  font-family: Inter;
+  font-size: 62.619px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 62.619px;
+}
+
+.review-intro {
+  color: var(--White, #fff);
+  font-family: Recoleta;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160px;
 }
 
 .splitting .word, .splitting .char {
