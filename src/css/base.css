@@ -481,6 +481,8 @@ line-height: 220.271px; /* 108.571% */
 	font-size: 150px;
 	margin-top:0;
 	grid-area: 1 / 2 / 2 / 3;
+		margin:0;
+
 }
 
 .stat-card--description {
