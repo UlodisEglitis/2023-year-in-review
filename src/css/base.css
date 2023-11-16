@@ -424,3 +424,13 @@ line-height: 220.271px; /* 108.571% */
 	font-weight: 400;
 	line-height: 160px;
 }
+
+.review-intro .logo {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+.review-intro .sub-logo {
+	margin-top: -25px;
+	gap: 14px;
+}
