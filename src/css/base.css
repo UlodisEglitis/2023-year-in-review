@@ -370,3 +370,44 @@ main {
 		justify-self: end;
 	}
 }
+
+
+/* 2023 in Review */
+
+.pill--blue {
+	border-radius: 163.851px;
+	background: #3858E9;
+}
+.pill--blue .logo {
+	fill: #FFF;
+}
+.pill--blue .text {
+	color: #FFF;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-size: 89.373px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 89.373px; /* 100% */
+	letter-spacing: 1.787px;
+}
+
+.pill--white {
+	border-radius: 163.851px;
+	background: #fff;
+}
+
+.pill--white .logo {
+	fill: #2544CF;
+}
+
+.pill--white .text {
+	color: #2544CF;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-size: 62.619px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 62.619px; /* 100% */
+	letter-spacing: 1.252px;
+}
