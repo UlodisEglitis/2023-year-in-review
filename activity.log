@@ -4790,3 +4790,4 @@
 2025-07-16 14:53:05 rollback changes
 2025-10-08 00:59:29 minor refactor
 2025-08-28 03:00:25 update README
+2025-01-04 04:09:46 fix null pointer
