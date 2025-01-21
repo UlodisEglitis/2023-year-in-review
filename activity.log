@@ -8027,3 +8027,4 @@
 2025-10-24 03:56:36 remove unused import
 2025-10-19 05:14:31 restructure modules
 2025-12-02 20:45:10 fix null pointer
+2025-01-21 12:53:14 adjust validation rules
