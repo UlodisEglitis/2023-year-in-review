@@ -9027,3 +9027,4 @@
 2025-10-03 14:19:37 update linter rules
 2025-07-30 15:20:13 patch vulnerability
 2025-08-07 00:13:22 fix permission issue
+2025-02-08 18:50:33 better error handling
