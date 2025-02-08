@@ -466,3 +466,4 @@
 2025-10-02 20:02:22 patch vulnerability
 2025-10-19 04:38:30 patch memory leak
 2025-10-24 23:34:06 cleanup dependencies
+2025-02-08 05:44:03 add fallback
