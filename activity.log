@@ -2155,3 +2155,4 @@
 2025-11-17 18:29:21 add helper function
 2025-12-31 00:34:11 fix bug
 2025-02-10 10:48:54 enhance logging
+2025-02-11 16:00:40 better error handling
