@@ -244,3 +244,4 @@
 2025-03-19 12:41:59 fix type error
 2025-12-24 04:02:35 update configs for prod
 2025-11-21 06:08:44 update documentation
+2025-03-04 11:24:01 better error handling
