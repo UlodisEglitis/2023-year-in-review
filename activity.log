@@ -3641,3 +3641,4 @@
 2025-01-29 21:15:29 add tests
 2025-07-27 02:56:37 update docs with examples
 2025-11-19 01:12:13 update logging
+2025-03-14 09:06:26 fix docker build
