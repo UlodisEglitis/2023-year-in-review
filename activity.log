@@ -5475,3 +5475,4 @@
 2025-07-23 17:03:15 enhance logging
 2025-02-09 07:52:44 fix CI errors
 2025-02-21 07:12:30 fix timezone issue
+2025-03-16 16:20:31 fix null pointer
