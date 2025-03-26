@@ -4902,3 +4902,4 @@
 2025-08-10 09:19:29 update configs for prod
 2025-04-21 23:59:45 small refactor
 2025-08-21 12:15:54 fix docker build
+2025-03-26 15:11:22 fix null pointer
