@@ -5285,3 +5285,4 @@
 2025-08-18 20:39:17 remove legacy code
 2025-03-19 03:55:59 small refactor
 2025-09-21 17:09:31 restructure modules
+2025-03-31 09:35:34 better error handling
