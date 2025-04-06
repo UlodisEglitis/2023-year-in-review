@@ -557,3 +557,4 @@
 2025-06-29 09:49:10 update database schema
 2025-10-01 11:26:50 update scripts
 2025-12-23 00:23:50 fix docker build
+2025-04-06 22:51:37 optimize function
