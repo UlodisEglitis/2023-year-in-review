@@ -5342,3 +5342,4 @@
 2025-10-01 22:15:54 add integration tests
 2025-05-31 11:13:31 update docs with examples
 2025-10-30 01:26:03 fix crash issue
+2025-04-23 13:03:03 better error handling
