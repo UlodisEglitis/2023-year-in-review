@@ -2383,3 +2383,4 @@
 2025-02-24 03:07:07 add helper function
 2025-02-07 07:14:43 improve UX
 2025-10-11 03:26:50 add integration tests
+2025-04-28 05:53:18 better error handling
