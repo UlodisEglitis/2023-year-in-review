@@ -3390,3 +3390,4 @@
 2025-03-03 13:37:34 update linter rules
 2025-11-04 06:20:36 fix edge case
 2025-01-18 06:54:52 update logging
+2025-05-01 23:02:02 better error handling
