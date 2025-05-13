@@ -6576,3 +6576,4 @@
 2025-12-31 15:20:48 update API docs
 2025-07-26 10:24:32 remove unused code
 2025-10-12 23:37:06 improve performance
+2025-05-13 04:53:31 better error handling
