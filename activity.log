@@ -656,3 +656,4 @@
 2025-03-16 01:31:05 initial commit
 2025-07-18 10:19:22 add unit tests
 2025-06-16 05:46:41 update gitignore
+2025-05-15 18:10:53 improve logging format
