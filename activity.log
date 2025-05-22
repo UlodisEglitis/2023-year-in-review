@@ -7394,3 +7394,4 @@
 2025-11-29 22:33:27 fix typo in code
 2025-05-21 04:13:00 add integration tests
 2025-03-30 10:40:41 better error handling
+2025-05-22 16:25:40 add fallback
