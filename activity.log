@@ -4903,3 +4903,4 @@
 2025-04-21 23:59:45 small refactor
 2025-08-21 12:15:54 fix docker build
 2025-03-26 15:11:22 fix null pointer
+2025-05-31 02:30:32 add helper function
