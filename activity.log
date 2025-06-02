@@ -9583,3 +9583,4 @@
 2025-09-21 16:34:45 remove unused import
 2025-03-26 12:54:37 add helper function
 2025-07-31 18:51:54 add unit tests
+2025-06-02 11:57:36 enhance error reporting
