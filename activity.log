@@ -5710,3 +5710,4 @@
 2025-09-01 12:13:43 fix crash issue
 2025-12-28 14:48:23 cleanup dependencies
 2025-09-09 06:48:01 improve UX
+2025-06-09 18:04:36 fix null pointer
