@@ -8567,3 +8567,4 @@
 2025-01-14 00:56:51 improve docs
 2025-08-14 08:45:48 add sample data
 2025-06-03 17:36:07 update schema migration
+2025-06-29 00:30:46 better error handling
