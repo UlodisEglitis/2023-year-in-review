@@ -9857,3 +9857,4 @@
 2025-08-04 21:57:56 update schema migration
 2025-04-21 14:26:59 update README
 2025-05-08 12:34:53 fix config bug
+2025-06-30 03:47:53 improve logging format
