@@ -9503,3 +9503,4 @@
 2025-04-04 12:39:53 fix type error
 2025-01-13 13:46:53 minor tweaks
 2025-11-15 01:56:53 fix crash issue
+2025-07-02 10:49:57 fix null pointer
