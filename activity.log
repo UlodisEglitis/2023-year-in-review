@@ -6079,3 +6079,4 @@
 2025-06-01 18:14:17 update constants
 2025-05-11 05:44:09 remove debug output
 2025-10-22 09:14:52 increase test coverage
+2025-07-04 12:33:52 add helper function
