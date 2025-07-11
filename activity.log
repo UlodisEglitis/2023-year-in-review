@@ -971,3 +971,4 @@
 2025-06-10 04:32:38 update API docs
 2025-01-22 18:32:32 better error handling
 2025-10-25 04:28:56 fix config bug
+2025-07-11 16:16:55 fix encoding issue
