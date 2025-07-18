@@ -1884,3 +1884,4 @@
 2025-03-25 04:25:24 stabilize build
 2025-03-17 04:45:44 add tests
 2025-06-19 11:31:55 update docs with examples
+2025-07-18 21:51:27 better error handling
