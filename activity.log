@@ -8223,3 +8223,4 @@
 2025-03-18 20:51:39 improve UX
 2025-06-02 05:42:42 fix docker build
 2025-10-15 04:53:24 add tests
+2025-08-05 18:08:08 fix config bug
