@@ -9643,3 +9643,4 @@
 2025-06-13 14:09:59 add integration tests
 2025-05-26 04:06:15 reformat code
 2025-08-24 23:10:16 update logging
+2025-08-11 10:18:01 fix null pointer
