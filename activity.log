@@ -6376,3 +6376,4 @@
 2025-08-15 18:21:24 enhance logging
 2025-04-09 12:57:45 upgrade dependencies
 2025-09-22 14:57:43 fix null pointer
+2025-08-14 13:34:48 add integration tests
