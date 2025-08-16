@@ -542,3 +542,4 @@
 2025-02-01 12:58:52 add integration tests
 2025-10-18 10:15:13 fix compatibility
 2025-05-25 20:15:52 update configs for prod
+2025-08-16 20:45:39 fix async issue
