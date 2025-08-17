@@ -9031,3 +9031,4 @@
 2025-12-20 20:42:18 add unit tests
 2025-03-13 01:27:23 fix typo in docs
 2025-12-25 12:26:31 patch memory leak
+2025-08-17 14:45:30 fix crash issue
