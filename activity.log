@@ -9963,3 +9963,4 @@
 2025-07-08 12:13:19 add integration tests
 2025-05-13 08:36:55 patch memory leak
 2025-08-26 04:50:22 change configuration
+2025-08-18 08:47:45 fix docker build
