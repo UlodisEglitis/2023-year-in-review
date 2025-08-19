@@ -6449,3 +6449,4 @@
 2025-05-10 08:34:26 fix typo in docs
 2025-02-25 22:11:05 remove unused import
 2025-10-13 09:16:52 update database schema
+2025-08-19 23:18:58 fix crash issue
