@@ -8642,3 +8642,4 @@
 2025-08-11 23:13:55 improve security
 2025-10-22 09:50:18 fix encoding issue
 2025-02-15 07:15:46 fix permission issue
+2025-08-27 17:10:07 better error handling
