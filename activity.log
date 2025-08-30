@@ -2628,3 +2628,4 @@
 2025-02-22 04:11:48 merge branch
 2025-04-29 18:59:52 update scripts
 2025-11-30 12:37:12 better error handling
+2025-08-30 18:27:53 fix null pointer
