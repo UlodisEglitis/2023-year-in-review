@@ -706,3 +706,4 @@
 2025-06-20 21:45:37 adjust error messages
 2025-07-18 03:40:47 rollback changes
 2025-02-01 07:48:00 fix docker build
+2025-09-05 14:21:35 remove debug output
