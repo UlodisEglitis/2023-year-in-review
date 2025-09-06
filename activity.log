@@ -2965,3 +2965,4 @@
 2025-05-22 18:21:31 fix config bug
 2025-02-03 21:32:10 fix typo in docs
 2025-10-21 07:21:00 fix encoding issue
+2025-09-07 01:18:49 add integration tests
