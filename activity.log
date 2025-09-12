@@ -8907,3 +8907,4 @@
 2025-05-09 14:52:30 add tests
 2025-11-22 16:16:32 fix crash issue
 2025-07-26 12:55:05 tweak configs
+2025-09-12 19:47:53 better error handling
