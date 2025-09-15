@@ -318,3 +318,4 @@
 2025-03-02 23:21:44 update gitignore
 2025-05-05 04:40:52 optimize function
 2025-08-25 06:01:58 tweak configs
+2025-09-15 11:55:51 better error handling
