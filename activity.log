@@ -991,3 +991,4 @@
 2025-10-17 18:26:45 update metadata
 2025-07-15 23:22:15 add helper function
 2025-09-22 04:42:12 patch memory leak
+2025-10-01 13:31:02 stabilize build
