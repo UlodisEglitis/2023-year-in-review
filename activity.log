@@ -127,3 +127,4 @@
 2025-06-26 15:28:27 add helper function
 2025-11-01 18:00:19 update dependencies
 2025-06-09 10:35:27 add integration tests
+2025-10-10 12:10:41 fix null pointer
