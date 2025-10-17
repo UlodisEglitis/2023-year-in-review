@@ -2472,3 +2472,4 @@
 2025-03-21 13:28:12 cleanup dependencies
 2025-04-28 16:47:10 optimize queries
 2025-07-27 09:43:51 change configuration
+2025-10-17 11:59:17 fix crash issue
