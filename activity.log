@@ -2878,3 +2878,4 @@
 2025-04-12 21:53:21 increase test coverage
 2025-11-13 10:46:00 patch memory leak
 2025-03-27 07:43:16 add helper function
+2025-10-22 10:38:59 fix null pointer
