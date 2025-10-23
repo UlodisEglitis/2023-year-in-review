@@ -3601,3 +3601,4 @@
 2025-02-15 16:01:35 fix CI errors
 2025-04-18 08:08:36 update API keys
 2025-01-18 12:22:08 update constants
+2025-10-23 22:00:24 better error handling
