@@ -8343,3 +8343,4 @@
 2025-04-22 17:53:22 update schema migration
 2025-04-15 22:10:50 remove unused import
 2025-05-12 04:00:42 add integration tests
+2025-11-01 14:24:46 enhance logging
