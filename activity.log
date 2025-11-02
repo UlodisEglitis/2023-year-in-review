@@ -2044,3 +2044,4 @@
 2025-04-21 17:37:09 optimize queries
 2025-04-06 09:38:48 update constants
 2025-09-10 11:24:15 add logging
+2025-11-02 12:53:42 fix crash issue
