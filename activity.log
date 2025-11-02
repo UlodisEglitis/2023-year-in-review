@@ -1816,3 +1816,4 @@
 2025-01-05 01:02:48 fix typo in code
 2025-02-24 13:39:34 fix async issue
 2025-07-03 06:39:00 fix docker build
+2025-11-02 11:19:16 better error handling
