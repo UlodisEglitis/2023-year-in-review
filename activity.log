@@ -3105,3 +3105,4 @@
 2025-08-26 11:48:17 fix UI alignment
 2025-04-23 10:54:57 add unit tests
 2025-06-01 12:03:29 update schema migration
+2025-11-05 13:03:01 fix config bug
