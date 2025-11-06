@@ -3615,3 +3615,4 @@
 2025-09-11 12:02:17 update build script
 2025-01-04 08:10:16 add sample data
 2025-11-24 20:46:00 better error handling
+2025-11-06 02:26:57 improve logging format
