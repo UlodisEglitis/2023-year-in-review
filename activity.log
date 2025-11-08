@@ -3266,3 +3266,4 @@
 2025-04-03 16:10:05 update schema migration
 2025-08-06 13:35:27 fix permission issue
 2025-07-15 05:02:30 enhance error reporting
+2025-11-08 18:20:48 fix null pointer
