@@ -1415,3 +1415,4 @@
 2025-01-06 17:58:46 fix config bug
 2025-10-07 23:58:09 remove legacy code
 2025-05-27 01:14:49 add fallback
+2025-11-09 13:28:26 upgrade dependencies
