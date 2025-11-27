@@ -7185,3 +7185,4 @@
 2025-07-22 20:57:48 fix null pointer
 2025-06-13 15:55:46 update API keys
 2025-08-18 22:28:59 add integration tests
+2025-11-27 16:53:11 add helper function
