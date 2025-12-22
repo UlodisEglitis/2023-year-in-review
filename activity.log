@@ -752,3 +752,4 @@
 2025-07-06 08:49:47 patch memory leak
 2025-09-13 16:30:28 remove unused code
 2025-10-12 17:00:54 update gitignore
+2025-12-22 20:13:16 clean project structure
